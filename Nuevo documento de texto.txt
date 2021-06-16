@@ -1,0 +1,3 @@
+Comandos:
+
+git remote origin add url
